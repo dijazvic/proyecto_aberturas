@@ -1,0 +1,62 @@
+body {
+    background-color: #3d1308ff;
+}
+header {
+    background-color: #211103ff;
+    display: flex;
+}
+.logo {
+    width: 15%;
+    height: 15%;
+    margin: 2px;
+    padding: 2px;
+}
+header article {
+    display: flex;
+}
+header h2 {
+    color: aquamarine;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-content: center;
+}
+nav {
+    display: flex;
+}
+nav ul {
+    display: flex;
+}
+nav a {
+    color: white;
+}
+
+.menu {
+    color: blanchedalmond;
+    font-size: large;
+}
+.descripcion {
+    color: white;
+    font-size: large;
+}
+.productos-titulo {
+    color: white;
+    font-size: large;
+}
+.productos {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+}
+.productos-foto {
+    width: 12%;
+    height: 12%;
+}
+
+footer {
+    background-color: #7b0d1eff;
+    text-align: right;    
+}
+
+.form {
+    color: white;
+}
