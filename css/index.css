@@ -3,33 +3,20 @@ body {
 }
 header {
     background-color: #211103ff;
-    display: flex;
 }
 .logo {
-    width: 15%;
-    height: 15%;
+    height: 70px;
     margin: 2px;
     padding: 2px;
-}
-header article {
-    display: flex;
 }
 header h2 {
     color: aquamarine;
     font-size: xx-large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    justify-content: center;
 }
-nav {
-    display: flex;
-}
-nav ul {
-    display: flex;
-}
-nav a {
+#text-color {
     color: white;
 }
-
 .menu {
     color: blanchedalmond;
     font-size: large;
@@ -39,7 +26,7 @@ nav a {
     font-size: large;
 }
 .productos-titulo {
-    color: white;
+    color:cornflowerblue;
     font-size: large;
 }
 .productos {
@@ -47,16 +34,32 @@ nav a {
     font-family: 'Courier New', Courier, monospace;
     display: flex;
 }
+.productos-subtitulo {
+    margin: 30px;
+}
 .productos-foto {
-    width: 12%;
-    height: 12%;
+        height: 500px;
 }
 
-footer {
+Footer {
     background-color: #7b0d1eff;
-    text-align: right;    
+    text-align: right;
+    color: white;    
 }
+
+
 
 .form {
     color: white;
+}
+
+
+
+.servicios {
+    color: white;
+}
+.servicios-articles {
+    height: 250px;
+    margin: 80px;
+    color:white;
 }
