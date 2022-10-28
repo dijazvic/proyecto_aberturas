@@ -1,6 +1,7 @@
 body {
     background-color: #3d1308ff;
 }
+
 header {
     background-color: #211103ff;
 }
@@ -17,6 +18,7 @@ header h2 {
 #text-color {
     color: white;
 }
+
 .menu {
     color: blanchedalmond;
     font-size: large;
@@ -26,7 +28,7 @@ header h2 {
     font-size: large;
 }
 .productos-titulo {
-    color:cornflowerblue;
+    color:blanchedalmond;
     font-size: large;
 }
 .productos {
@@ -49,10 +51,6 @@ Footer {
 
 
 
-.form {
-    color: white;
-}
-
 
 
 .servicios {
@@ -63,3 +61,33 @@ Footer {
     margin: 80px;
     color:white;
 }
+
+
+
+
+.pag_productos {
+    color: white;
+}
+.productos_foto {
+    height: 250px;
+}
+
+
+
+
+.nosotros {
+    color: white;
+}
+
+
+
+
+.form {
+    color: white;
+}
+
+
+
+
+
+
