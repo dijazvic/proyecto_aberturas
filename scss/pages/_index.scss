@@ -1,0 +1,26 @@
+body {
+    background-color: #3d1308ff;
+}
+    .menu {
+    color: blanchedalmond;
+    font-size: large;
+    }
+        .descripcion {
+        color: white;
+        font-size: large;
+        }
+            .productos-titulo {
+            color:blanchedalmond;
+            font-size: large;
+                .productos {
+                color: white;
+                font-family: 'Courier New', Courier, monospace;
+                display: flex;
+                    .productos-subtitulo {
+                    margin: 30px;
+                        .productos-foto {
+                        height: 500px;
+                        }
+                    }
+                }
+            }

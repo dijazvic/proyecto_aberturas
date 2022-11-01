@@ -1,93 +1,67 @@
-body {
-    background-color: #3d1308ff;
-}
-
+/*PARTIALS*/
 header {
-    background-color: #211103ff;
-}
+  background-color: #211103ff; }
+
 .logo {
-    height: 70px;
-    margin: 2px;
-    padding: 2px;
-}
-header h2 {
-    color: aquamarine;
-    font-size: xx-large;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-#text-color {
-    color: white;
-}
+  height: 70px;
+  margin: 2px;
+  padding: 2px; }
+
+.h2 {
+  color: aquamarine;
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
+
+.text-color {
+  color: white; }
+
+footer {
+  background-color: #7b0d1eff;
+  text-align: right;
+  color: white; }
+
+/*PAGES*/
+body {
+  background-color: #3d1308ff; }
 
 .menu {
-    color: blanchedalmond;
-    font-size: large;
-}
+  color: blanchedalmond;
+  font-size: large; }
+
 .descripcion {
-    color: white;
-    font-size: large;
-}
+  color: white;
+  font-size: large; }
+
 .productos-titulo {
-    color:blanchedalmond;
-    font-size: large;
-}
-.productos {
+  color: blanchedalmond;
+  font-size: large; }
+  .productos-titulo .productos {
     color: white;
     font-family: 'Courier New', Courier, monospace;
-    display: flex;
-}
-.productos-subtitulo {
-    margin: 30px;
-}
-.productos-foto {
-        height: 500px;
-}
-
-Footer {
-    background-color: #7b0d1eff;
-    text-align: right;
-    color: white;    
-}
-
-
-
-
+    display: flex; }
+    .productos-titulo .productos .productos-subtitulo {
+      margin: 30px; }
+      .productos-titulo .productos .productos-subtitulo .productos-foto {
+        height: 500px; }
 
 .servicios {
-    color: white;
-}
-.servicios-articles {
+  color: white; }
+  .servicios .servicios-articles {
     height: 250px;
     margin: 80px;
-    color:white;
-}
-
-
-
-
-.pag_productos {
-    color: white;
-}
-.productos_foto {
-    height: 250px;
-}
-
-
-
+    color: white; }
 
 .nosotros {
-    color: white;
-}
+  color: white; }
 
+.pag_productos {
+  color: white; }
 
+.productos_pag {
+  color: white; }
 
+.productos_foto {
+  height: 250px; }
 
 .form {
-    color: white;
-}
-
-
-
-
-
-
+  color: white; }
