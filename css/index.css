@@ -46,7 +46,7 @@ body {
 
 .servicios {
   color: white; }
-  .servicios .servicios-articles {
+  .servicios-articles {
     height: 250px;
     margin: 80px;
     color: white; }
